@@ -1,0 +1,49 @@
+# katy-try-of.github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+    h2{font-family: cursive;
+    color:rgb(0, 105, 143);
+    font-weight:bold;
+    font-size:1.5em;
+    text-align: center;
+        }
+    body{font-size:12px;}
+    #fecha{text-align: center;}
+    #imagen{text-align: center;}
+        </style>
+    
+    </head>
+    <body>
+        
+        <h1>Blog de Isabel!</h1>
+
+        <h3>Contenidos</h3>
+        <ul>
+            <li><a href="#Entrada1">Mi experiencia con el HTML</a></li>
+            <li><a href="#Entrada2">Mi experiencia con el CSS</a></li>
+        </ul>
+        <h2 id="Entrada1">Mi experiencia con el HTML</h2>
+        <h5 id="fecha">Publicado el 7 de Febrero de 2021</h5>
+        
+        <p>Si bien es cierto que en el último mes volví a retomar mi aprendizaje con el HTML, este empezó cuando yo tenía tan solo 10 años.<br>
+            Esto se debía a que cuando a iba a 5º de primaria, uno de los padre que formaban parte del AMPA, propuso que fueramos nosotros los encargados de darle vida al blog del colegio Mario Benedetti. Según propuso esto, no dude en presentarme voluntaria, ya que siempre me había fascinado todo aquello relacionado con la informática. 
+            Poco después, yo y otros dos compañeros de mi clase, creamos un blog llamado "La buhardilla del Benedetti", el cual hoy en día sigue vigente gracias a la colaboración de cursos posteriores al nuestro. <br>
+            Gracias a esto, pude aprender HTML básico y algo de CSS, como explicaré más adelante, además de usar una gran variedad de programas, y conseguí ganar junto a mis compañeros el 3ºpremio de países de habla hispana en edublogs.
+            
+        </p>
+        
+        <h2 id="Entrada2">Mi experiencia con el CSS</h2>
+        <h5 id="fecha">Publicado el 7 de Febrero de 2021</h5>
+        <p>
+            Aunque al igual que el HTML mi aprendizaje en este campo empezara muchos años atras, el bruto de conocimientos en CSS que tengo son gracias a lo aprendido este último mes. <br>
+            Siendo así, aunque aún solo sepa CSS básico, las prácticas realizadas me ayudaron a rememorar alguna que otra orden, y aprender nuevas, como las de hipervínculos dentro de una misma página web.<br>
+            Mis deseos actuales, son seguir estudiandolo para poder conseguir crear un blog verdaderamente a mi gusto y que recoja toda la información que quiera de forma ordenada y bonita.<br>
+            Dicho esto, ¡Os espero hasta mi próxima entrada!<br>
+            <img id="imagen" src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+        </p>
+    </body>
+</html>
